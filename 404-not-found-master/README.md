@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 
-- GitHub [@krish144](https://{github.com/krish144})
+- GitHub [@krish144](https://github.com/krish144)
 
