@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/Screenshot 2022-09-02 192817.png)
+![screenshot](https://github.com/krish144/firstProject/blob/main/404-not-found-master/Screenshot%202022-09-02%20192817.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
